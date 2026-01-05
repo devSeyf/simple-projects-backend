@@ -1,0 +1,4 @@
+
+//this data.txt
+// Assignment 1
+// Question 1: Read file named 'data.txt' and log it.
